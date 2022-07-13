@@ -1,0 +1,33 @@
+h2 {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+h3 {
+    text-transform: uppercase;
+}
+.main__inicio {
+    margin: 0 1rem;
+    margin-bottom: 5rem;
+}
+.main__inicio-sections {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+.main__inicio-blog, .main__inicio-tienda {
+    background-color: #B9A79D;
+    border-radius: .7rem;
+    padding: .75rem;
+    box-shadow: #444 0 0 10px 1px;
+}
+.main__inicio-tienda-imagenes {
+    display: flex;
+    margin: .5rem 0;
+    justify-content: space-around;
+}
+.main__inicio-tienda img {
+    width: 40%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 50%;
+}
