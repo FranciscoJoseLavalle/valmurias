@@ -26,6 +26,8 @@
     padding: .5rem;
     border-radius: .2rem;
     transition: .2s;
+    font-size: 1.15rem;
+    -webkit-tap-highlight-color: transparent;
 }
 .header__nav-ul li a:hover {
     background-color: #0005;
@@ -33,6 +35,7 @@
 .header__title-cont {
     color: #fff;
     text-align: center;
+    -webkit-tap-highlight-color: transparent;
 }
 .header__title-cont h1 {
     font-size: 2.5rem;
