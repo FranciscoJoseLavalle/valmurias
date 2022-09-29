@@ -64,7 +64,7 @@
         animation-duration: .3s;
         z-index: 1;
     }
-    .header__nav-ul a {
+    .header__nav-ul li a {
         font-size: 1.5rem;
     }
 }

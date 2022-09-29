@@ -1,0 +1,10 @@
+.BlogPost {
+    display: flex;
+    flex-direction: column;
+    gap: .2rem;
+    background-color: #B9A79D;
+    width: 75%;
+    margin: auto;
+    padding: 1rem;
+    border-radius: .5rem;
+}
